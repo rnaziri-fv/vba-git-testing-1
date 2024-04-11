@@ -1,4 +1,5 @@
 Attribute VB_Name = "Module1"
+' new line here
 Function SumNumbers(Number1 As Double, Number2 As Double) As Double
     ' Line change here.
     ' This function returns the sum of two numbers.
